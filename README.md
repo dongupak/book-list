@@ -2,5 +2,5 @@
 
 | 이미지 	| 내용  	|
 |---	|---		|
-| <img href="./image/Java-3D-book.jpg"> 	| * 제목 : 자바 3D 프로그래밍 	|
+| <img src="image/Java-3D-book.jpg" width=400px> 	| * 제목 : 자바 3D 프로그래밍 	|
 |  	|  	|
