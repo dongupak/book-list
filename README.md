@@ -6,8 +6,8 @@
 | <img src="image/Cpp-book-3rd.jpg" width=300px> 	          | * 제목 : C++을 이용한 프로그래밍(3rd) </br>* 저자 : 서동근, 박동규 등 </br>* 출간 연도 : 2006년 </br>* 출간사 : 사이텍미디어  	|
 | <img src="image/Prime-Python-1st-book.jfif" width=300px> 	| * 제목 : 으뜸 파이썬(1판) </br>* 저자 : 박동규, 강영민 </br>* 출간 연도 : 2020년 </br>* 출간사 : 생능출판사  	|
 | <img src="image/Prime-Python-2nd-book.jfif" width=300px> 	| * 제목 : 으뜸 파이썬(2판) </br>* 저자 : 박동규, 강영민 </br>* 출간 연도 : 2024년 </br>* 출간사 : 생능출판사  	|
-| <img src="image/DataSciPy-1st-book.jpeg" width=300px> 	| * 제목 : 따라하며 배우는 파이썬과 데이터 과학(1판) </br>* 저자 : 천인국, 박동규, 강영민 </br>* 출간 연도 : 2020년 </br>* 출간사 : 생능출판사  	|
-| <img src="image/DataSciPy-2nd-book.jpeg" width=300px> 	| * 제목 : 따라하며 배우는 파이썬과 데이터 과학(2판) </br>* 저자 : 천인국, 박동규, 강영민 </br>* 출간 연도 : 2023년 </br>* 출간사 : 생능출판사  	|
+| <img src="image/DataSciPy-1st-book.jpeg" width=300px> 	| * 제목 : 따라하며 배우는 파이썬과 데이터 과학(1판) </br>* 저자 : 천인국, 박동규, 강영민 </br>* 출간 연도 : 2020년 12월  </br>* 출간사 : 생능출판사  	|
+| <img src="image/DataSciPy-2nd-book.jpeg" width=300px> 	| * 제목 : 따라하며 배우는 파이썬과 데이터 과학(2판) </br>* 저자 : 천인국, 박동규, 강영민 </br>* 출간 연도 : 2023년 11월 </br>* 출간사 : 생능출판사  	|
 
 
 |  	|  	|
