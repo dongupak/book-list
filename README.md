@@ -16,5 +16,6 @@
 | <img src="image/AIStart-1st-book.png" width=300px> 	| * 제목 : 누구나 쉽게 배우는 인공지능 스타트(1판) </br>* 저자 : 박동규 </br>* 출간 연도 : 2022년 7월  </br>* 출간사 : 인피니티북스</br>* 비고 : 2023 세종도서선정|
 | <img src="image/AIStart-2nd-book.png" width=300px> 	| * 제목 : 누구나 쉽게 배우는 인공지능 스타트(2판) </br>* 저자 : 박동규 </br>* 출간 연도 : 2025년 1월  </br>* 출간사 : 인피니티북스  	|
 | <img src="image/DLStart-1st-book.png" width=300px> 	| * 제목 : 누구나 쉽게 배우는 딥러닝 스타트(1판) </br>* 저자 : 박동규 </br>* 출간 연도 : 2023년 12월  </br>* 출간사 : 인피니티북스 </br>* 비고 : 2024 세종도서선정|
+| <img src="image/SoftwareLit-1st.jpg" width=300px> 	| * 제목 : 소프트웨어 리터리시(1판) </br>* 저자 : 김대수, 김경동, 강영민, 박동규, 반병현, 천인국, 윤성현 </br>* 출간 연도 : 2025년 1월  </br>* 출간사 : 생능출판사 </br>* 비고 : 전자책출간|
 | <img src="image/LearnC-1st-book.png" width=300px> 	| * 제목 : 따라하며 배우는 C언어(1판) </br>* 저자 : 박동규  </br>* 출간 연도 : 2025년 11월  </br>* 출간사 : 생능출판사  	|
 
