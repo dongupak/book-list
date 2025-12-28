@@ -3,7 +3,9 @@
 | 이미지 	| 내용  	|
 |---	|---		|
 | <img src="image/Java-3D-book.jpg" width=300px> 	          | * 제목 : 자바 3D 프로그래밍 </br>* 저자 : 박동규 </br>* 출간 연도 : 2000년 </br>* 출간사 : 도서출판 대림  	|
-| <img src="image/Cpp-book-3rd.jpg" width=300px> 	          | * 제목 : C++을 이용한 프로그래밍(3rd) </br>* 저자 : 서동근, 박동규 등 </br>* 출간 연도 : 2006년 </br>* 출간사 : 사이텍미디어  	|
+| <img src="image/ComputerAni-book.jpg" width=300px> 	      | * 제목 : 컴퓨터 애니메이션</br>* 저자 : 박동규, 박미정, 양순애 </br>* 출간 연도 : 2004년 10월 </br>* 출간사 : 도서출판 아진  	|
+| <img src="image/Cpp-book-3rd.jpg" width=300px> 	          | * 제목 : C++을 이용한 프로그래밍(3rd) </br>* 저자 : 서동근, 박동규 등 </br>* 출간 연도 : 2006년 </br>* 출간사 : 사이텍미디어 
+| <img src="image/Intro-IT.png" width=300px> 	      | * 제목 : 정보통신공학개론</br>* 저자 : 어윤, 황민태, 이훈, 박동규, 강창순, 석종원 </br>* 출간 연도 : 2007년 3월 </br>* 출간사 : 도서출판 한산  	||
 | <img src="image/Prime-Python-1st-book.jfif" width=300px> 	| * 제목 : 으뜸 파이썬(1판) </br>* 저자 : 박동규, 강영민 </br>* 출간 연도 : 2020년 </br>* 출간사 : 생능출판사  	|
 | <img src="image/Prime-Python-2nd-book.jfif" width=300px> 	| * 제목 : 으뜸 파이썬(2판) </br>* 저자 : 박동규, 강영민 </br>* 출간 연도 : 2024년 </br>* 출간사 : 생능출판사  	|
 | <img src="image/DataSciPy-1st-book.jpeg" width=300px> 	| * 제목 : 따라하며 배우는 파이썬과 데이터 과학(1판) </br>* 저자 : 천인국, 박동규, 강영민 </br>* 출간 연도 : 2020년 12월  </br>* 출간사 : 생능출판사  	|
